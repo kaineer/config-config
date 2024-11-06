@@ -1,3 +1,5 @@
+# Пилим инструмент для сборки конфигураций
+
 ## Objects
  * :PROGRESS: Config path
  * :DONE: Serialization (as a process)
