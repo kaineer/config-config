@@ -5,6 +5,6 @@ class TestSectionSerialize:
         assert section({ "name": "cold", "key": "value" }) == (
             "[cold]\nkey = \"value\"\n")
 
-    def test_anonymouse_section(self):
+    def test_anonymous_section(self):
         assert section({ "key": "value" }) == (
             "key = \"value\"\n")

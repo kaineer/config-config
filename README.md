@@ -12,6 +12,8 @@
 ## Install tox
 
 ```sh
+$ sudo apt install python3-pip python3-venv
+$ python3 -m venv .
 $ python3 -m pip install --user tox
 ```
 

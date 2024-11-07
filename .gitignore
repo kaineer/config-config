@@ -4,5 +4,6 @@ lib/
 lib64
 tmp/
 .tox/
+__pycache__/
 pyvenv.cfg
 .envrc
