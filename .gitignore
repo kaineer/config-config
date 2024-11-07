@@ -1,3 +1,8 @@
 bin/
+include/
+lib/
+lib64
 tmp/
+.tox/
+pyvenv.cfg
 .envrc
