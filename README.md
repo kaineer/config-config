@@ -17,3 +17,8 @@ $ python3 -m venv .
 $ python3 -m pip install --user tox
 ```
 
+## Install requests
+
+```
+$ pip install requests
+```
